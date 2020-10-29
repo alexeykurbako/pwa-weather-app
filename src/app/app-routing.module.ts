@@ -3,6 +3,11 @@ import { Routes, RouterModule } from '@angular/router';
 import {WeatherComponent} from "./weather/weather.component";
 
 const routes: Routes = [
+  {
+    path: '',
+    pathMatch: 'prefix',
+    redirectTo: 'weather'
+  },
   { path: 'weather', component: WeatherComponent }
 ];
 

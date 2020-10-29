@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: lightsteelblue;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.weather-icon {
+  height: 200px;
+  width: 200px;
+}
