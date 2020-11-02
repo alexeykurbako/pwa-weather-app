@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604316351131,
+  "timestamp": 1604316619860,
   "index": "https://alexeykurbako.github.io/pwa-weather-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://alexeykurbako.github.io/pwa-weather-app/favicon.ico",
         "https://alexeykurbako.github.io/pwa-weather-app/index.html",
-        "https://alexeykurbako.github.io/pwa-weather-app/main.8c970d7333fcb2f529f1.js",
+        "https://alexeykurbako.github.io/pwa-weather-app/main.192b71e025b160d197de.js",
         "https://alexeykurbako.github.io/pwa-weather-app/manifest.webmanifest",
         "https://alexeykurbako.github.io/pwa-weather-app/polyfills.35a5ca1855eb057f016a.js",
         "https://alexeykurbako.github.io/pwa-weather-app/runtime.acf0dec4155e77772545.js",
@@ -60,8 +60,8 @@
     "https://alexeykurbako.github.io/pwa-weather-app/assets/wrain.png": "91b890436eee1f03940b3d6d90a92ed82b115050",
     "https://alexeykurbako.github.io/pwa-weather-app/assets/wsun-rain.png": "f840c124859ea3fa5fd49424d2ff76901094a770",
     "https://alexeykurbako.github.io/pwa-weather-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://alexeykurbako.github.io/pwa-weather-app/index.html": "815fc31abb8096813f9a40c5e251d14765cbd718",
-    "https://alexeykurbako.github.io/pwa-weather-app/main.8c970d7333fcb2f529f1.js": "889890586e3c8797f896062d5a1a65f5fa5089d6",
+    "https://alexeykurbako.github.io/pwa-weather-app/index.html": "6ad39795ab9a42bfa87d563a4b819cd9182a772a",
+    "https://alexeykurbako.github.io/pwa-weather-app/main.192b71e025b160d197de.js": "98d01269cfb025000620d5f6bec72afed8d12cea",
     "https://alexeykurbako.github.io/pwa-weather-app/manifest.webmanifest": "c49e6c62642707271796c25585f7293653dc4449",
     "https://alexeykurbako.github.io/pwa-weather-app/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://alexeykurbako.github.io/pwa-weather-app/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
