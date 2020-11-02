@@ -1,15 +1,14 @@
-html {
-  height: 100%;
-}
+
 
 .main {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: lightsteelblue;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 400px;
 }
 
 .weather-icon {

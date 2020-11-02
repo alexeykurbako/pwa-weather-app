@@ -1,9 +1,9 @@
 <div class="wrapper">
   <div class="main" *ngIf="$weather | async as weather">
-    <img *ngIf="weather.weather[0].main == 'Clear'" src="/assets/wclear.jpg" class="weather-icon">
-    <img *ngIf="weather.weather[0].main == 'Clouds'" src="/assets/wcloud.png" class="weather-icon">
-    <img *ngIf="weather.weather[0].main == 'Rain'" src="/assets/wrain.png" class="weather-icon">
-    <img *ngIf="weather.weather[0].main == 'Rain'" src="/assets/wsun-rain.png" class="weather-icon">
+    <img *ngIf="weather.weather[0].main == 'Clear'" src="/pwa-weather-app/assets/wclear.jpg" class="weather-icon">
+    <img *ngIf="weather.weather[0].main == 'Clouds'" src="/pwa-weather-app/assets/wcloud.png" class="weather-icon">
+    <img *ngIf="weather.weather[0].main == 'Mist'" src="/pwa-weather-app/assets/wcloud.png" class="weather-icon">
+    <img *ngIf="weather.weather[0].main == 'Rain'" src="/pwa-weather-app/assets/wrain.png" class="weather-icon">
     <h3>Temperature: {{weather.main.temp}}C</h3>
     <p>feels like {{weather.main.feels_like}}C</p>
     <p>Humidity: {{weather.main.humidity}}%</p>
