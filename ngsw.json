@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604316701103,
+  "timestamp": 1604317022244,
   "index": "https://alexeykurbako.github.io/pwa-weather-app/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://alexeykurbako.github.io/pwa-weather-app/favicon.ico",
         "https://alexeykurbako.github.io/pwa-weather-app/index.html",
-        "https://alexeykurbako.github.io/pwa-weather-app/main.7d1f7fe87beb323924d2.js",
+        "https://alexeykurbako.github.io/pwa-weather-app/main.db3797f7f71bc96711b1.js",
         "https://alexeykurbako.github.io/pwa-weather-app/manifest.webmanifest",
         "https://alexeykurbako.github.io/pwa-weather-app/polyfills.35a5ca1855eb057f016a.js",
         "https://alexeykurbako.github.io/pwa-weather-app/runtime.acf0dec4155e77772545.js",
-        "https://alexeykurbako.github.io/pwa-weather-app/styles.3ff695c00d717f2d2a11.css"
+        "https://alexeykurbako.github.io/pwa-weather-app/styles.91067929c3cc1658f0fc.css"
       ],
       "patterns": []
     },
@@ -60,12 +60,12 @@
     "https://alexeykurbako.github.io/pwa-weather-app/assets/wrain.png": "91b890436eee1f03940b3d6d90a92ed82b115050",
     "https://alexeykurbako.github.io/pwa-weather-app/assets/wsun-rain.png": "f840c124859ea3fa5fd49424d2ff76901094a770",
     "https://alexeykurbako.github.io/pwa-weather-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://alexeykurbako.github.io/pwa-weather-app/index.html": "1895864c2a84ec04e7d2a6b9daa179131cb1dcb7",
-    "https://alexeykurbako.github.io/pwa-weather-app/main.7d1f7fe87beb323924d2.js": "45f430775c669806b9870e99cb822f771d36c97e",
+    "https://alexeykurbako.github.io/pwa-weather-app/index.html": "a7bda0e9af8f34aede61f9b704e6ad7e6a907c30",
+    "https://alexeykurbako.github.io/pwa-weather-app/main.db3797f7f71bc96711b1.js": "67cda9146029a4da60dae6b2ab123a30a68ac648",
     "https://alexeykurbako.github.io/pwa-weather-app/manifest.webmanifest": "c49e6c62642707271796c25585f7293653dc4449",
     "https://alexeykurbako.github.io/pwa-weather-app/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://alexeykurbako.github.io/pwa-weather-app/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://alexeykurbako.github.io/pwa-weather-app/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://alexeykurbako.github.io/pwa-weather-app/styles.91067929c3cc1658f0fc.css": "aab484dd56e8f2305a462bfef10a3f89e8c0ba89"
   },
   "navigationUrls": [
     {
